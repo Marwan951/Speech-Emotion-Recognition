@@ -1,5 +1,3 @@
-                    Discover the power of real-time emotion identification for enhanced human-computer interaction.
-
 # Demo
 Experience my Speech Emotion Recognition (SER) System in action! 🎙️🎭 [Unmute 🔊 the video to hear the recorded voice].
 
