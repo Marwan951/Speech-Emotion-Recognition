@@ -2,7 +2,7 @@
 Experience my Speech Emotion Recognition (SER) System in action! 🎙️🎭 [Unmute 🔊 the video to hear the voice].  
 
 https://github.com/Marwan951/Speech-Emotion-Recognition/assets/95751506/af1563fb-fe9f-4bff-9928-b0650d47a1eb
-# Speech-Emotion-Recognition
+# Speech Emotion Recognition
 In this repository, I present my graduation project, aiming to build an efficient real-time system that accurately identifies emotions from speech signals for enhancing human-computer interaction, it offers diverse datasets, multiple DL models, and comprehensive documentation for easy understanding of the system.
 
 # SER General Architecture
@@ -13,10 +13,10 @@ The research's primary objective is to create a real-time SER system that can pr
 The SER system utilizes a CUDA-enabled Deep Neural Network with Long Short-Term Memory (LSTM) architecture, ensuring efficient emotion recognition.
 
 ![CuDnnLstm](https://github.com/Marwan951/Speech-Emotion-Recognition/assets/95751506/9d5775e8-8732-4114-97d3-87d304df91c0)
-# Dataset - Rvdess, TESS
+# Dataset - (RAVDESS & TESS)
 The system is trained on the RAVDESS and TESS datasets, providing a diverse range of emotions for robust emotion recognition.
 
-# Preprocessing - Silence removal, Normalization, Encoding & Data Balancing
+# Preprocessing - (Silence removal, Normalization, Encoding & Data Balancing)
 Prior to training, speech signals undergo preprocessing steps like silence removal, normalization, and encoding, with data balancing to enhance model performance.
 
 # Feature Extraction
