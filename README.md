@@ -1,5 +1,5 @@
 # Demo 
-Experience my Speech Emotion Recognition (SER) System in action! 🎙️🎭 [Unmute 🔊 the video to hear the voice].  
+🎥 Watch the showcasing my SER System in action 🎙️🎭. Remember to unmute 🔊 the video to hear the voice and experience the emotions detected.
 
 https://github.com/Marwan951/Speech-Emotion-Recognition/assets/95751506/af1563fb-fe9f-4bff-9928-b0650d47a1eb
 # Speech Emotion Recognition
@@ -24,3 +24,4 @@ Acoustic feature extraction plays a crucial role in SER by capturing the acousti
 
 # Displaying the Emotions
 The real-time SER system instantly presents the recognized emotion, allowing users to promptly interpret the emotional content conveyed in the input speech.
+
