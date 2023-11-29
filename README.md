@@ -15,7 +15,7 @@ The research's primary objective is to create a real-time SER system that can pr
 
 - **Web-Based Interface:** The web-based interface offers a user-friendly experience, allowing users to interact with the system through their browsers.
 
-- **Mobile Application:** For on-the-go access, my mobile application extends the emotion recognition capabilities to smartphones.
+- **Mobile Application:** For on-the-go access,  mobile application extends the emotion recognition capabilities to smartphones.
 
 - **Diverse Emotion Dataset:** The system is trained on a diverse and well-annotated emotion dataset to ensure accurate recognition across different emotions, sourced from the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) and Toronto Emotional Speech Set (TESS).
 
