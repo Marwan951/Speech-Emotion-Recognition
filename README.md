@@ -1,5 +1,5 @@
 # Demo 
-🎥 Watch the showcasing my SER System in action 🎙️🎭. Remember to unmute 🔊 the video to hear the voice.
+🎥 Watch the showcasing SER System in action 🎙️🎭. Remember to unmute 🔊 the video to hear the voice.
 
 https://github.com/Marwan951/Speech-Emotion-Recognition/assets/95751506/af1563fb-fe9f-4bff-9928-b0650d47a1eb
 # Speech Emotion Recognition
