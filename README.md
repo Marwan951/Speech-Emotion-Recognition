@@ -9,7 +9,7 @@ In this repository, I present my graduation project, aiming to build an efficien
 The research's primary objective is to create a real-time SER system that can precisely categorize emotions based on audio input. The system employs various methods such as preprocessing, feature extraction, model classification, and emotion detection visualization to analyze and classify the input signals. It operates continuously until the user decides to stop recording, enabling users to capture and review their emotional expressions. Please refer to the above Figure for an illustration of the system's components.
 
 ![Block drawio](https://github.com/Marwan951/Speech-Emotion-Recognition/assets/95751506/7b07b6bf-714a-4513-8db6-5d005f432da7)
-## Features
+## System Capabilities
 
 - **Real-Time Emotion Recognition:** My system efficiently processes speech signals in real-time, enabling instant emotion identification.
 
